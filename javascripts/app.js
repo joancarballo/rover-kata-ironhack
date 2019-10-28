@@ -1,4 +1,5 @@
 // Rover Object Goes Here
+// ENTREGAR ANTES DEL 4/10/2019
 // ======================
 var rover = {
   direction: "N", //defaul direction: "N". Valid directions "N", "S", "E", or "W".
@@ -20,8 +21,11 @@ Suggested Approach
 Use a loop to iterate over the string. Inside of this loop, write a switch or if statement to call the correct function. 
 For instance, if the letter is f, you’re going to want to call the goForward function.
 */
-function comands(){
-
+function go(){
+  for 
+    var move // Recibe el movimiento
+    switch // decidir si es f, l, r...
+      // el marron que tengo que solucionar ASAP
 }
 
 function turnLeft(rover){
